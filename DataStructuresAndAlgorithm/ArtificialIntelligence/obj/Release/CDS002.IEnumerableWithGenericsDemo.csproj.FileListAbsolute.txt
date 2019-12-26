@@ -1,0 +1,6 @@
+/Users/lzzy/Desktop/未命名文件夹/DAA02.Sources/Foundation/CDS002.IEnumerableWithGenericsDemo/bin/Release/CDS002.IEnumerableWithGenericsDemo.exe.config
+/Users/lzzy/Desktop/未命名文件夹/DAA02.Sources/Foundation/CDS002.IEnumerableWithGenericsDemo/bin/Release/CDS002.IEnumerableWithGenericsDemo.exe
+/Users/lzzy/Desktop/未命名文件夹/DAA02.Sources/Foundation/CDS002.IEnumerableWithGenericsDemo/bin/Release/CDS002.IEnumerableWithGenericsDemo.pdb
+/Users/lzzy/Desktop/未命名文件夹/DAA02.Sources/Foundation/CDS002.IEnumerableWithGenericsDemo/obj/Release/CDS002.IEnumerableWithGenericsDemo.csproj.CoreCompileInputs.cache
+/Users/lzzy/Desktop/未命名文件夹/DAA02.Sources/Foundation/CDS002.IEnumerableWithGenericsDemo/obj/Release/CDS002.IEnumerableWithGenericsDemo.exe
+/Users/lzzy/Desktop/未命名文件夹/DAA02.Sources/Foundation/CDS002.IEnumerableWithGenericsDemo/obj/Release/CDS002.IEnumerableWithGenericsDemo.pdb

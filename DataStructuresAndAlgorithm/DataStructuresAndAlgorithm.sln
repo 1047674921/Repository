@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{6E25F010-1E80-493D-BE43-ABA0F8F34988}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chicken", "Chicken\Chicken.csproj", "{123BA968-395A-4287-B042-F066E81794AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chicken", "Chicken\Chicken.csproj", "{123BA968-395A-4287-B042-F066E81794AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS002.IEnumerableWithGenericsDemo", "ArtificialIntelligence\CDS002.IEnumerableWithGenericsDemo.csproj", "{4A5073BA-1F96-4149-B858-57DAF8337D77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +19,17 @@ Global
 		{123BA968-395A-4287-B042-F066E81794AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{123BA968-395A-4287-B042-F066E81794AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{123BA968-395A-4287-B042-F066E81794AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A5073BA-1F96-4149-B858-57DAF8337D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A5073BA-1F96-4149-B858-57DAF8337D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A5073BA-1F96-4149-B858-57DAF8337D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A5073BA-1F96-4149-B858-57DAF8337D77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{123BA968-395A-4287-B042-F066E81794AD} = {6E25F010-1E80-493D-BE43-ABA0F8F34988}
+		{4A5073BA-1F96-4149-B858-57DAF8337D77} = {6E25F010-1E80-493D-BE43-ABA0F8F34988}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1F3D3F40-81B7-4D13-A4B1-A9C078BBB50D}
