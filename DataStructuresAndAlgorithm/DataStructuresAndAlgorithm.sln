@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chicken", "Chicken\Chicken.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS002.IEnumerableWithGenericsDemo", "ArtificialIntelligence\CDS002.IEnumerableWithGenericsDemo.csproj", "{4A5073BA-1F96-4149-B858-57DAF8337D77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS03.Poker", "Poker\Poker\DS03.Poker.csproj", "{A0B16CB8-2048-43E2-9B3C-FCD3C69035AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{4A5073BA-1F96-4149-B858-57DAF8337D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A5073BA-1F96-4149-B858-57DAF8337D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A5073BA-1F96-4149-B858-57DAF8337D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0B16CB8-2048-43E2-9B3C-FCD3C69035AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B16CB8-2048-43E2-9B3C-FCD3C69035AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B16CB8-2048-43E2-9B3C-FCD3C69035AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B16CB8-2048-43E2-9B3C-FCD3C69035AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{123BA968-395A-4287-B042-F066E81794AD} = {6E25F010-1E80-493D-BE43-ABA0F8F34988}
 		{4A5073BA-1F96-4149-B858-57DAF8337D77} = {6E25F010-1E80-493D-BE43-ABA0F8F34988}
+		{A0B16CB8-2048-43E2-9B3C-FCD3C69035AA} = {6E25F010-1E80-493D-BE43-ABA0F8F34988}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1F3D3F40-81B7-4D13-A4B1-A9C078BBB50D}
