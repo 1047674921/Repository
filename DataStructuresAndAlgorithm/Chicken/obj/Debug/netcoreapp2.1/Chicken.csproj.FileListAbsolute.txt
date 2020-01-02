@@ -9,3 +9,14 @@ C:\Users\Administrator.DESKTOP-O633LCC\Desktop\DataStructuresAndAlgorithm\Chicke
 C:\Users\Administrator.DESKTOP-O633LCC\Desktop\DataStructuresAndAlgorithm\Chicken\obj\Debug\netcoreapp2.1\Chicken.AssemblyInfo.cs
 C:\Users\Administrator.DESKTOP-O633LCC\Desktop\DataStructuresAndAlgorithm\Chicken\obj\Debug\netcoreapp2.1\Chicken.dll
 C:\Users\Administrator.DESKTOP-O633LCC\Desktop\DataStructuresAndAlgorithm\Chicken\obj\Debug\netcoreapp2.1\Chicken.pdb
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\Chicken\bin\Debug\netcoreapp2.1\Chicken.deps.json
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\Chicken\bin\Debug\netcoreapp2.1\Chicken.runtimeconfig.json
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\Chicken\bin\Debug\netcoreapp2.1\Chicken.runtimeconfig.dev.json
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\Chicken\bin\Debug\netcoreapp2.1\Chicken.dll
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\Chicken\bin\Debug\netcoreapp2.1\Chicken.pdb
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\Chicken\obj\Debug\netcoreapp2.1\Chicken.csprojAssemblyReference.cache
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\Chicken\obj\Debug\netcoreapp2.1\Chicken.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\Chicken\obj\Debug\netcoreapp2.1\Chicken.AssemblyInfoInputs.cache
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\Chicken\obj\Debug\netcoreapp2.1\Chicken.AssemblyInfo.cs
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\Chicken\obj\Debug\netcoreapp2.1\Chicken.dll
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\Chicken\obj\Debug\netcoreapp2.1\Chicken.pdb

@@ -1,0 +1,12 @@
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\CDS004.IListWithGenericsDemo\obj\Debug\CDS005.IListWithGenericsDemo.csprojAssemblyReference.cache
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\CDS004.IListWithGenericsDemo\obj\Debug\CDS005.IListWithGenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\CDS004.IListWithGenericsDemo\bin\Debug\CDS005.IListWithGenericsDemo.exe.config
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\CDS004.IListWithGenericsDemo\bin\Debug\CDS005.IListWithGenericsDemo.exe
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\CDS004.IListWithGenericsDemo\bin\Debug\CDS005.IListWithGenericsDemo.pdb
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\CDS004.IListWithGenericsDemo\bin\Debug\CDS000.Common.dll
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\CDS004.IListWithGenericsDemo\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\CDS004.IListWithGenericsDemo\bin\Debug\CDS000.Common.pdb
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\CDS004.IListWithGenericsDemo\bin\Debug\NuGet.Frameworks.xml
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\CDS004.IListWithGenericsDemo\obj\Debug\CDS005.IListWithGenericsDemo.csproj.CopyComplete
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\CDS004.IListWithGenericsDemo\obj\Debug\CDS005.IListWithGenericsDemo.exe
+C:\Users\Administrator.DESKTOP-O633LCC\Desktop\新建文件夹 (2)\DataStructuresAndAlgorithm\CDS004.IListWithGenericsDemo\obj\Debug\CDS005.IListWithGenericsDemo.pdb
